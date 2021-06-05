@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-A rock paper scissors in the almighty Python console.
+A rock paper scissors game in the almighty Python console.
 
 # Game preview
 ![image](https://user-images.githubusercontent.com/34915099/120889475-ac1e5980-c5fd-11eb-83cd-8f58f5e31e07.png)
